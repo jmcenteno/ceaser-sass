@@ -26,9 +26,13 @@ ease-out
 ease-in-out
 
 easeInBack
+
 easeInCirc
+
 easeInCubic
+
 easeInExpo
+
 easeInOutBack
 easeInOutCirc
 easeInOutCubic
