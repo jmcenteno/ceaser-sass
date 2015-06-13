@@ -20,9 +20,13 @@ CSS Output
 ##Supported Methods
 
 linear
+
 ease (default)
+
 ease-in
+
 ease-out
+
 ease-in-out
 
 easeInBack
